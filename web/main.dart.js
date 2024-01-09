@@ -77719,9 +77719,9 @@ s=i.r
 g=A.jb(A.anI("https://image.tmdb.org/t/p/w185"+(s==null?"":s),B.yD,j,j),j,j)
 s=i.as
 s=k.kS("Overview",s==null?"":s)
-r=k.kS("Vote Count",B.h.k(i.a))
-q=k.kS("Video",B.c5.k(i.c))
-p=k.kS("Vote Average",B.c.k(i.d))
+r=k.kS("Vote Average",B.c.k(i.d))
+q=k.kS("Vote Count",B.h.k(i.a))
+p=k.kS("Video",B.c5.k(i.c))
 o=k.kS("Popularity",B.c.k(i.f))
 n=i.w
 n=k.kS("Original Language",n==null?"":n)
